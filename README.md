@@ -1,41 +1,130 @@
-<h1 align="center">Hi 👋, I'm Mp Escobare</h1>
-<h3 align="center">Cybersecurity Student | Reverse Engineering | Penetration Testing | CTF Player</h3>
+<h1 align="center">Hi 👋, I'm Tarik</h1>
+<h3 align="center">Cybersecurity Student | Reverse Engineering & Penetration Testing Enthusiast | CTF Player</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-CTF%20%7C%20Reverse%20Engineering%20%7C%20Pentesting-blue" alt="focus badge" />
-  <img src="https://img.shields.io/badge/OS-Kali%20%7C%20Arch%20%7C%20Windows-orange" alt="os badge" />
-  <img src="https://img.shields.io/badge/Learning-Kernel%20Exploitation-success" alt="learning badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Breaking+things+to+learn+how+they+work;CTF+player+and+security+researcher;Always+learning%2C+always+hacking" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🛡️ About Me
+
+- 🔐 Cybersecurity student specializing in **Reverse Engineering** and **Penetration Testing**
+- 🚩 Active **CTF player** - I enjoy breaking challenges and learning new exploitation techniques
+- 🐛 Passionate about finding vulnerabilities and understanding how systems work under the hood
+- 🧠 Constantly learning new tools, techniques, and methodologies in offensive security
+- 💻 Love diving deep into binary exploitation, malware analysis, and network security
+
+---
+
+### 🏆 CTF Stats & Achievements
+
+- 🥇 Participated in multiple CTF competitions
+- 📈 Constantly improving my skills on platforms like HackTheBox, TryHackMe, and CTFtime
+- 🎯 Focused on pwn, reverse engineering, and web exploitation challenges
+
+---
+
+### 🔧 Languages and Tools
+
 <p align="left">
-<a href="https://github.com/MpEscobare" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
-<a href="mailto:your.email@example.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="40" height="40"/></a>
+  <!-- Programming Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+  </a>
+  
+  <!-- Operating Systems -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali" width="40" height="40"/> 
+  </a>
+  
+  <!-- Security & Reverse Engineering Tools -->
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.wireshark.org/assets/images/wireshark-fin.png" alt="wireshark" width="40" height="40"/> 
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" alt="metasploit" width="40" height="40"/> 
+  </a>
+  
+  <!-- Other Tools -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-<a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Ghidra_logo.svg" alt="ghidra" width="40" height="40"/></a>
-<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Metasploit_logo_and_wordmark.svg" alt="metasploit" width="40" height="40"/></a>
-</p>
+### 🎯 Focus Areas
+
+```bash
+$ cat skills.txt
+├── Reverse Engineering
+│   ├── Binary Analysis (IDA Pro, Ghidra, radare2)
+│   ├── Malware Analysis
+│   └── Debugging (GDB, x64dbg)
+├── Penetration Testing
+│   ├── Web Application Security
+│   ├── Network Penetration Testing
+│   └── Privilege Escalation
+├── CTF Challenges
+│   ├── Pwn/Binary Exploitation
+│   ├── Cryptography
+│   └── Forensics
+└── Programming
+    ├── Python (Exploit Development)
+    ├── C/C++ (Low-level Programming)
+    └── Assembly (x86/x64)
+```
 
 ---
 
-<h3 align="left">📈 GitHub Stats:</h3>
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MpEscobare&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MpEscobare&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tarik&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarik&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h3 align="center">🏴‍☠️ Let's hack the planet (ethically)!</h3>
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://discord.gg/yourdiscord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
+
+---
+
+### 💡 Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tarik&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">⚡ <i>"In cybersecurity, you're only as good as your last exploit"</i> ⚡</p>
