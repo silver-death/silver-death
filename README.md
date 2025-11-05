@@ -90,8 +90,12 @@ $ cat skills.txt
     ├── C/C++ (Low-level Programming)
     └── Assembly (x86/x64)
 ```
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" width="20" height="20" alt="Arch Linux logo" />
+  And I use Arch btw 
+</p>
 
----
+...
 
 ### 📫 Connect with Me
 
