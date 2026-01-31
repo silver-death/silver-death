@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about reverse engineering and low-level programming | CTF Player</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=BBreaking+things+to+learn+how+they+workK;CTF+player+and+security+researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Breaking+things+to+learn+how+they+worK" alt="Typing SVG" />
 </p>
 
 ---
