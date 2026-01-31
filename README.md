@@ -1,30 +1,11 @@
 <h1 align="center">Hi 👋, I'm Death</h1>
-<h3 align="center">Cybersecurity Student | Reverse Engineering & Penetration Testing Enthusiast | CTF Player</h3>
+<h3 align="center">Passionate about reverse engineering and low-level programming | CTF Player</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Breaking+things+to+learn+how+they+work;CTF+player+and+security+researcher;Always+learning%2C+always+hacking" alt="Typing SVG" />
 </p>
 
 ---
-
-### 🛡️ About Me
-
-- 🔐 Cybersecurity student specializing in **Reverse Engineering** and **Penetration Testing**
-- 🚩 Active **CTF player** - I enjoy breaking challenges and learning new exploitation techniques
-- 🐛 Passionate about finding vulnerabilities and understanding how systems work under the hood
-- 🧠 Constantly learning new tools, techniques, and methodologies in offensive security
-- 💻 Love diving deep into binary exploitation, malware analysis, and network security
-
----
-
-### 🏆 CTF Stats & Achievements
-
-- 🥇 Participated in multiple CTF competitions
-- 📈 Constantly improving my skills on platforms like HackTheBox, TryHackMe, and CTFtime
-- 🎯 Focused on pwn, reverse engineering, and web exploitation challenges
-
----
-
 ### 🔧 Languages and Tools
 
 <p align="left">
@@ -68,39 +49,3 @@
 </p>
 
 ---
-
-### 🎯 Focus Areas
-
-```bash
-$ cat skills.txt
-├── Reverse Engineering
-│   ├── Binary Analysis (IDA Pro, Ghidra, radare2)
-│   ├── Malware Analysis
-│   └── Debugging (GDB, x64dbg)
-├── Penetration Testing
-│   ├── Web Application Security
-│   ├── Network Penetration Testing
-│   └── Privilege Escalation
-├── CTF Challenges
-│   ├── Pwn/Binary Exploitation
-│   ├── Cryptography
-│   └── Forensics
-└── Programming
-    ├── Python (Exploit Development)
-    ├── C/C++ (Low-level Programming)
-    └── Assembly (x86/x64)
-```
-<p align="left">
-  I use Arch btw 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="20" height="20" alt="Arch Linux logo" />
-</p>
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/notyethhhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://discord.gg/notyethhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
-</p>
-
----
-
