@@ -10,6 +10,6 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/SilverDeath" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/SilverDeath.png" alt="TryHackMe Profile"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/SilverDeath.png" alt="TryHackMe Stats"/>
   </a>
 </p>
