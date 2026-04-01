@@ -41,11 +41,8 @@
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/wireshark.svg" alt="wireshark" width="40" height="40"/>
   </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.metasploit.com/includes/images/metasploit-r7-logo.svg" alt="metasploit" width="40" height="40"/>
-  </a>
   
-
+  
   <!-- Embedded / Hardware -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
